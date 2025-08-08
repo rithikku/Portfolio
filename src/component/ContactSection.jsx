@@ -1,7 +1,7 @@
 const ContactSection = () => {
     return (
         <section className="contact" id="contact">
-            <h2>Contact Me</h2>
+            <h2 className="contactH">Contact Me</h2>
             <form>
                 <input type="text" placeholder="Your Name" required></input>
                 <input type="email" placeholder="Your Email" required></input>

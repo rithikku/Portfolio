@@ -1,7 +1,7 @@
 const AboutSection = () => {
   return (
     <section className="about" id="about">
-      <h2>About Me</h2>
+      <h2 className="about-h">About Me</h2>
       <p>
         I’m a passionate Frontend Developer with a keen eye for design and a
         love for creating clean, responsive, and user-friendly web experiences.

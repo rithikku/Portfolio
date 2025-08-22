@@ -9,10 +9,10 @@ const ProjectSection = () => {
           <p>
             React and Tailwind app, integrates Swiggy live API, and many features.
           </p>
-        </div>
-        <div className="project-card">
-          <h3>Real-time Bus Tracking</h3>
-          <p>Flutter app with live maps, bus locations, and route tracking.</p>
+          <div className="project-links">
+            <a href="https://rithikfood.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+            <a href="https://github.com/rithikku/Namaste-React" target="_blank" rel="noopener noreferrer">GitHub</a>
+          </div>
         </div>
 
         <div className="project-card">
